@@ -16,6 +16,7 @@ Tools yang digunakan selama pembangunan project ini adalah:
 
 Berikut ini saya juga menyertakan catatan (notes) untuk memudahkan pemahaman akan project yang akan dibangun selama bootcamp berlangsung.
 - [Note 01 - Berkenalan dengan Laravel9](notes/2022-04-09-bootcamp-pertemuan-01.md)
+- [Note 02 - Setup Project menggunakan Laravel9](notes/2022-04-10-bootcamp-pertemuan-02.md)
 
 ## Source Code
 
